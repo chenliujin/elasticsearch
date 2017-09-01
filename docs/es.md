@@ -42,3 +42,4 @@ $ docker run -d -p 9200:9200 docker.io/elasticsearch:5.4.0
 
 # 参考文献
 - https://wiki.shileizcc.com/display/ELK/ELK
+- [时间](https://www.elastic.co/guide/en/elasticsearch/reference/current/mapping-date-format.html)
